@@ -39,6 +39,7 @@ dependencies:
   firebase_auth: 
   cloud_firestore: 
   curved_navigation_bar: ^1.0.5
+  random_string: ^2.3.1
 
 
 
